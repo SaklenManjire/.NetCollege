@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\24UAM307\\Third year\\.NetCollege\\DayThree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71EBF061-EE32-4EF1-884D-32253ED1AEC5}|DayThree\\DayThree.csproj|d:\\24uam307\\third year\\.netcollege\\daythree\\daythree\\sortlamda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EBF061-EE32-4EF1-884D-32253ED1AEC5}|DayThree\\DayThree.csproj|solutionrelative:daythree\\sortlamda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EBF061-EE32-4EF1-884D-32253ED1AEC5}|DayThree\\DayThree.csproj|d:\\24uam307\\third year\\.netcollege\\daythree\\daythree\\multicastlamda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EBF061-EE32-4EF1-884D-32253ED1AEC5}|DayThree\\DayThree.csproj|solutionrelative:daythree\\multicastlamda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EBF061-EE32-4EF1-884D-32253ED1AEC5}|DayThree\\DayThree.csproj|d:\\24uam307\\third year\\.netcollege\\daythree\\daythree\\singlecastlamda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EBF061-EE32-4EF1-884D-32253ED1AEC5}|DayThree\\DayThree.csproj|solutionrelative:daythree\\singlecastlamda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EBF061-EE32-4EF1-884D-32253ED1AEC5}|DayThree\\DayThree.csproj|d:\\24uam307\\third year\\.netcollege\\daythree\\daythree\\multicast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EBF061-EE32-4EF1-884D-32253ED1AEC5}|DayThree\\DayThree.csproj|solutionrelative:daythree\\multicast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EBF061-EE32-4EF1-884D-32253ED1AEC5}|DayThree\\DayThree.csproj|d:\\24uam307\\third year\\.netcollege\\daythree\\daythree\\singlecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EBF061-EE32-4EF1-884D-32253ED1AEC5}|DayThree\\DayThree.csproj|solutionrelative:daythree\\singlecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EBF061-EE32-4EF1-884D-32253ED1AEC5}|DayThree\\DayThree.csproj|d:\\24uam307\\third year\\.netcollege\\daythree\\daythree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EBF061-EE32-4EF1-884D-32253ED1AEC5}|DayThree\\DayThree.csproj|solutionrelative:daythree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SortLamda.cs",
+              "DocumentMoniker": "D:\\24UAM307\\Third year\\.NetCollege\\DayThree\\DayThree\\SortLamda.cs",
+              "RelativeDocumentMoniker": "DayThree\\SortLamda.cs",
+              "ToolTip": "D:\\24UAM307\\Third year\\.NetCollege\\DayThree\\DayThree\\SortLamda.cs",
+              "RelativeToolTip": "DayThree\\SortLamda.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T07:54:52.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MultiCastLamda.cs",
+              "DocumentMoniker": "D:\\24UAM307\\Third year\\.NetCollege\\DayThree\\DayThree\\MultiCastLamda.cs",
+              "RelativeDocumentMoniker": "DayThree\\MultiCastLamda.cs",
+              "ToolTip": "D:\\24UAM307\\Third year\\.NetCollege\\DayThree\\DayThree\\MultiCastLamda.cs",
+              "RelativeToolTip": "DayThree\\MultiCastLamda.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T07:50:03.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SingleCastlamda.cs",
+              "DocumentMoniker": "D:\\24UAM307\\Third year\\.NetCollege\\DayThree\\DayThree\\SingleCastlamda.cs",
+              "RelativeDocumentMoniker": "DayThree\\SingleCastlamda.cs",
+              "ToolTip": "D:\\24UAM307\\Third year\\.NetCollege\\DayThree\\DayThree\\SingleCastlamda.cs",
+              "RelativeToolTip": "DayThree\\SingleCastlamda.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T07:43:56.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MultiCast.cs",
+              "DocumentMoniker": "D:\\24UAM307\\Third year\\.NetCollege\\DayThree\\DayThree\\MultiCast.cs",
+              "RelativeDocumentMoniker": "DayThree\\MultiCast.cs",
+              "ToolTip": "D:\\24UAM307\\Third year\\.NetCollege\\DayThree\\DayThree\\MultiCast.cs",
+              "RelativeToolTip": "DayThree\\MultiCast.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T07:32:22.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SingleCast.cs",
+              "DocumentMoniker": "D:\\24UAM307\\Third year\\.NetCollege\\DayThree\\DayThree\\SingleCast.cs",
+              "RelativeDocumentMoniker": "DayThree\\SingleCast.cs",
+              "ToolTip": "D:\\24UAM307\\Third year\\.NetCollege\\DayThree\\DayThree\\SingleCast.cs",
+              "RelativeToolTip": "DayThree\\SingleCast.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T07:25:43.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\24UAM307\\Third year\\.NetCollege\\DayThree\\DayThree\\Program.cs",
+              "RelativeDocumentMoniker": "DayThree\\Program.cs",
+              "ToolTip": "D:\\24UAM307\\Third year\\.NetCollege\\DayThree\\DayThree\\Program.cs",
+              "RelativeToolTip": "DayThree\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T06:44:11.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
